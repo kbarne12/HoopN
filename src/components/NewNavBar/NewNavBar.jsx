@@ -79,10 +79,7 @@ const NewNavBar = ({ user, handleLogout }) => {
         </>
         :
         <>
-          {/* when user log out >> .Nav {visibility: hidden;}  ++responsive++ */}
-          {/* <button onClick={toggleNav} className="Burger">
-            <img src="https://i.ibb.co/ZdyrMTz/menu.png" width="50px" height="auto"></img>
-          </button> */}
+    
         </>}
     </header>
 
